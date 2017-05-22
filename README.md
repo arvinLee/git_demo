@@ -8,3 +8,9 @@ let's go
       i = i+1;
     
     }  
+
+```javascript
+    function test(){
+        console.log("aaa");
+    }
+
